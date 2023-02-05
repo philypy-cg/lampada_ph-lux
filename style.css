@@ -25,7 +25,11 @@ p {
   animation-duration: 3s;
   animation-name: slidein;
 }
-
+body {
+  background-image: url(https://1.bp.blogspot.com/-kxllc5wj6QQ/YPbDgC_MYSI/AAAAAAAAoSA/HzPwVGdRQnglUM4TrAwh9DMlyHcw0TzIACLcBGAsYHQ/s16000/M-222423S32AB.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 @keyframes slidein {
   from {
     margin-left: 100%;
