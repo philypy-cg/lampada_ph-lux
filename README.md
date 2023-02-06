@@ -11,7 +11,7 @@
 O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javascript
 
 - Foi criada uma estrutura simples no HTML
-- Criado um visual simples, moderno e responsivo com o CSS
+- Criado um visual simples e moderno com o CSS
 - Utilizada uma forma funcional para realizar as operações com Javascript para que podesse ter a opção de ligar e desligar a lâmpada.
 
 ## Resultado final em Desktop:
