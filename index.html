@@ -1,27 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Lâmpada</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <script async src="./assets/js/lampada.js" async></script>
+
+    <title>Lâmpada - PH LUX</title>
   </head>
   <body>
-    <header>
-      <h1 class="phlux">PH LUX</h1>
-    </header>
-    <main>
-      <div>
-        <img src="./img/desligada.jpg" alt="Lâmpada" id="lamp" />
-      </div>
-      <div>
-        <button id="turnOn">Ligar</button>
-        <button id="turnOff">Desligar</button>
-      </div>
-    </main>
-    <script src="./lampada.js"></script>
-    <footer>
-      <p class="copyright">&copy; Copyright Lâmpada - Dev Philypy Gomes</p>
-    </footer>
+    <h1 class="phlux">Ajude o Thomas Edison ligar a luz puxando a cordinha</h1>
+    <br />
+    <h4 class="copyright">&copy; Copyright Lâmpada - Dev Philypy Gomes</h4>
+    <div id="lampada">
+      <div class="circulo"></div>
+      <div class="circulo2"></div>
+      <div class="corda"></div>
+    </div>
+    <div id="quadrado">
+      <div class="corda2"></div>
+      <div class="punto"></div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
   </body>
 </html>
