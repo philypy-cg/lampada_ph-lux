@@ -12,4 +12,4 @@ O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javas
 
 - Foi criada uma estrutura simples no HTML
 - Criado um visual simples, moderno e responsivo com o CSS
-- Utilizada uma forma funcional para realizar as operações com Javascript para que podesse ter a opção de ligar, desligar e quebrar a lâmpada.
+- Utilizada uma forma funcional para realizar as operações com Javascript para que podesse ter a opção de ligar e desligar a lâmpada.
