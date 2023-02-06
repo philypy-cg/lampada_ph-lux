@@ -4,8 +4,6 @@ body {
 body {
   background-image: url(https://imagensemoldes.com.br/wp-content/uploads/2020/10/Ilustracao-Thomas-Edison-PNG-1280x720.png);
   background-repeat: no-repeat;
-  
-
 }
 #lampada {
   position: absolute;
@@ -125,7 +123,6 @@ p {
   left: 350px;
 }
 
-
 p {
   animation-duration: 3s;
   animation-name: slidein;
@@ -135,10 +132,3 @@ p {
   animation-duration: 3s;
   animation-name: slidein;
 }
-
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 300%;
-  }
-
