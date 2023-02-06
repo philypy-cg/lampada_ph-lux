@@ -13,3 +13,16 @@ O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javas
 - Foi criada uma estrutura simples no HTML
 - Criado um visual simples, moderno e responsivo com o CSS
 - Utilizada uma forma funcional para realizar as operações com Javascript para que podesse ter a opção de ligar e desligar a lâmpada.
+
+## Resultado final em Desktop:
+
+![resultado inicial](https://user-images.githubusercontent.com/119917190/216856734-0fe41f99-fd59-4d6b-94f8-11ee13f3c796.jpg)
+![resultado ligado](https://user-images.githubusercontent.com/119917190/216856875-2c165476-6547-4594-8a06-f4d3fda5cdd0.jpg)
+
+
+## Resultado final do resultado em Gif:
+
+![Lâmpada - PH LUX -](https://user-images.githubusercontent.com/119917190/216857134-abf846c4-a095-45df-a7ac-7631ef7948f9.gif)
+
+###### Link do Deploy (Página do Projeto):
+https://philypy-cg.github.io/lampada_ph-lux/
